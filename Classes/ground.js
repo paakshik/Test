@@ -16,7 +16,7 @@ class Ground  {
     push();
   
     rectMode(CENTER);
-    fill('black');
+    fill('saddlebrown');
         translate(this.body.position.x,this.body.position.y);
         rotate(Angle)
 rect(0,0, this.width, this.height);
